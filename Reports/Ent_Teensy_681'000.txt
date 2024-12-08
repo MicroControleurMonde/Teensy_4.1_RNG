@@ -1,0 +1,27 @@
+>ent -c random_numbers.txt
+Value Char Occurrences Fraction
+ 10           681000   0.095393
+ 48   0       625333   0.087595
+ 49   1       660210   0.092481
+ 50   2       693927   0.097204
+ 51   3       800337   0.112109
+ 52   4       700009   0.098056
+ 53   5       592395   0.082981
+ 54   6       577430   0.080885
+ 55   7       571586   0.080066
+ 56   8       619935   0.086839
+ 57   9       616740   0.086391
+
+Total:       7138902   1.000000
+
+Entropy = 3.452534 bits per byte.
+
+Optimum compression would reduce the size
+of this 7138902 byte file by 56 percent.
+
+Chi square distribution for 7138902 samples is 160632211.37, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 48.3234 (127.5 = random).
+Monte Carlo value for Pi is 4.000000000 (error 27.32 percent).
+Serial correlation coefficient is -0.095991 (totally uncorrelated = 0.0).
