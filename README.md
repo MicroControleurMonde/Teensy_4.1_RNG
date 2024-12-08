@@ -31,12 +31,20 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
 
 Ent sources (www.fourmilab.ch/random/)
 
+- Sample size: **7,1 MB**
+
+- Total generated: **681'000 values**
+
 [Ent Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.txt)
 
 [Ent Report Analyse](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.md)
 
 ## Diehard Test for Validation
 (https://webhome.phy.duke.edu/~rgb/General/dieharder.php) Robert G. Brown
+
+- Sample size: **7,1 MB**
+
+- Total generated: **681'000 values**
 
 [Diehard Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Dieharder_Teensy_681'000.txt)
 
