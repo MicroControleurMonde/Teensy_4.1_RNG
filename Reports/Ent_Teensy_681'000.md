@@ -1,26 +1,5 @@
 ## Test Results from Ent
-
-### Distribution of Values and Occurrences
-The test provides a breakdown of the values (from 0 to 9) in the file ***`Teensy_681'000.txt`***. 
-Below are the detailed results:
-
-| **Value** | **Character** | **Occurrences** | **Fraction** |
-|-----------|---------------|-----------------|--------------|
-| 10        | (space)       | 681,000         | 9.54%        |
-| 48        | 0             | 625,333         | 8.76%        |
-| 49        | 1             | 660,210         | 9.25%        |
-| 50        | 2             | 693,927         | 9.72%        |
-| 51        | 3             | 800,337         | 11.21%       |
-| 52        | 4             | 700,009         | 9.81%        |
-| 53        | 5             | 592,395         | 8.30%        |
-| 54        | 6             | 577,430         | 8.09%        |
-| 55        | 7             | 571,586         | 8.01%        |
-| 56        | 8             | 619,935         | 8.68%        |
-| 57        | 9             | 616,740         | 8.64%        |
-
-**Total occurrences**: 7,138,902  
-**Total fraction**: 1.000000
-
+ 
 ### Entropy
 - **Entropy**: 3.452534 bits per byte  
   Entropy measures the level of disorder or "randomization" in the data.  
@@ -63,7 +42,7 @@ Below are the detailed results:
 - **Statistical tests**: The chi-square and Monte Carlo tests show that the data deviates from perfect randomization – non-random organization.
 - **Byte dependence**: A low serial correlation coefficient indicates a certain degree of independence between bytes.
 
-The data in `Teensy_681'000.txt` displays characteristics that are similar to randomly generated data, but they are not completely random.  
+The data in _**`Teensy_681'000.txt`**_ displays characteristics that are similar to randomly generated data, but they are not completely random.  
 They show detectable patterns.
 
 ---
