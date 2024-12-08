@@ -36,6 +36,7 @@ Ent sources (www.fourmilab.ch/random/)
 [Ent Report Analyse](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.md)
 
 ## Diehard Test for Validation
+(https://webhome.phy.duke.edu/~rgb/General/dieharder.php) Robert G. Brown
 
 [Diehard Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Dieharder_Teensy_681'000.txt)
 
