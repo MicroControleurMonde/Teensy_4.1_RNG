@@ -1,7 +1,8 @@
 # Teensy 4.1 RNG
 ##### Under construction...
 
-(https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/NXP.jpg)
+![Image locale](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/NXP.jpg)
+![Image locale](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/PJRC.logo.jpg)
 A method for generating random numbers on a Teensy 4.1 using multiple analog inputs (Not using the MCU TRNG)
 
 ### Contexte:
