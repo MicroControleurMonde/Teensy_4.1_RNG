@@ -27,6 +27,9 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
 
 ## Performance and output
 
+
+- The final output is a 32-bit random number that is periodically generated and can be used in applications requiring randomness.
+
 ## Ent Tests
 
 Ent sources (www.fourmilab.ch/random/)
