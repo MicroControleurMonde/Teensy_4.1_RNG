@@ -27,7 +27,7 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
 
 ## Performance and output
 
-#### Performance:
+### Performance:
 Generating 681'000 random numbers (32 bits) and saving them.
 
 - **Elapsed time**: 295.71 seconds (about 4 minutes and 55 seconds).
@@ -36,7 +36,7 @@ Generating 681'000 random numbers (32 bits) and saving them.
 
 - **Number** of random numbers generated **per second** ≈ 5'307
 
-#### output:
+### Output:
 - The final output is a 32-bit random number that is periodically generated and can be used in applications requiring randomness.
   
         Random number (32-bit): 3323335684
@@ -75,6 +75,12 @@ Ent sources (www.fourmilab.ch/random/)
 
 
 ## Acknowledgements
+
+The project is based on the i/MX RT1062 MCU, and its MicroPython firmware.
+
+Tested on an original Teensy 4.1.
+
+MicroPython v1.24.0 on 2024-10-25; Teensy 4.1 with MIMXRT1062DVJ6A
 
 ## Disclaimer
 
