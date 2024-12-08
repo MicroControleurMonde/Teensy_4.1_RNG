@@ -3,6 +3,7 @@
 
 ![Image locale](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/NXP.jpg)
 ![Image locale](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/PJRC.logo.jpg)
+
 A method for generating random numbers on a Teensy 4.1 using multiple analog inputs (Not using the MCU TRNG)
 
 ### Contexte:
@@ -11,6 +12,40 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
     in micropython, on the RT1062 it is another matter. The NXP documentation does not help 
     and the C source code of the RNG provided in the SDK is tearing your hair out !
     So, for the moment a more simplistic approach is preferable...
+
+## Breakdown of Sections
+
+## Project Description
+
+## Features
+
+## Requirements
+
+## Usage
+
+## How it Works
+
+## Performance and output
+
+## Ent Tests
+
+Ent sources (www.fourmilab.ch/random/)
+
+[Ent Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.txt)
+
+[Ent Report Analyse](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.md)
+
+## Diehard Test for Validation
+
+[Diehard Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Dieharder_Teensy_681'000.txt)
+
+[Diehard Report - Analyse](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Dieharder_Teensy_681'000.md)
+
+
+## Acknowledgements
+
+## Disclaimer
+
 
 ### Output:
 
