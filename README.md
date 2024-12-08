@@ -1,4 +1,5 @@
 # Teensy 4.1 RNG
+##### Under construction...
 
 A method for generating random numbers on a Teensy 4.1 using multiple analog inputs (Not using the MCU TRNG)
 
