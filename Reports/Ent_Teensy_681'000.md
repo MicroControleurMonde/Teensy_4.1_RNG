@@ -1,7 +1,8 @@
 ## Test Results from Ent
 
 ### Distribution of Values and Occurrences
-The test provides a breakdown of the values (from 0 to 9) in the file `Teensy_681'000.txt`. Below are the detailed results:
+The test provides a breakdown of the values (from 0 to 9) in the file ***`Teensy_681'000.txt`***. 
+Below are the detailed results:
 
 | **Value** | **Character** | **Occurrences** | **Fraction** |
 |-----------|---------------|-----------------|--------------|
