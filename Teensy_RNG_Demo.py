@@ -39,7 +39,7 @@ def generate_random_number():
     random_bits = 0
 
     # Read multiple pins to increase entropy
-    for pin in analog_pins[:6]:  # Select more pins for higher entropy
+    for pin in analog_pins[:6]:  # Select more pins for higher entropy (Customization)
         adc = adcs[pin]
         
         # Take multiple samples from the ADC and combine them with XOR to reduce systematic noise
