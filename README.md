@@ -7,11 +7,14 @@
 A method for generating random numbers on a Teensy 4.1 using multiple analog inputs (Not using the MCU TRNG)
 
 ### Context:
-    I created a random number generator on Teensy (i.MX RT1062) while knowing that the MCU 
-    had its own TRNG. Unlike the ESP32 chip where the TRNG was relatively simple to implement 
-    in micropython, on the RT1062 it is another matter. The NXP documentation does not help 
-    and the C source code of the RNG provided in the SDK is tearing your hair out !
+    I created a random number generator on Teensy (i.MX RT1062) while knowing that the MCU had its own TRNG. 
+    Unlike the ESP32 chip where the TRNG was relatively simple to implement in micropython, on the RT1062 it is another matter. 
+    The NXP documentation does not help and the C source code of the RNG provided in the SDK is tearing your hair out !
     So, for the moment a more simplistic approach is preferable...
+
+    For information: The C code is quite simple and straightforward, actually. However, the calls to the include file are a hellish machine.
+    it is all about working on the multiple registers of the MCU. 
+    It's real rocket science...
 
 ## Breakdown of Sections
 
