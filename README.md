@@ -18,6 +18,21 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
 
 ## Breakdown of Sections
 
+
+1. [Project Description](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#project-description)
+2. [Features](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#features)
+3. [Requirements](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#requirements)
+4. [Usage](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#usage)
+5. [How it Works](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#how-it-works)
+6. Performance and output
+    - [Performance](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#performance)
+    - [Output](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#output)
+
+8. [Ent Tests](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#ent-tests)
+9. [Diehard Test for Validation](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#diehard-test-for-validation)
+10. [Acknowledgements](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#acknowledgements)
+11. [Disclaimer](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#disclaimer)
+
 ## Project Description
 
 ## Features
