@@ -2,8 +2,6 @@
 
 **Date :** 09.12.2024
 
-##### Under construction ...
-
 ![Image locale](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/NXP.jpg)
 ![Image locale](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/PJRC.logo.jpg)
 
@@ -110,13 +108,17 @@ Generating **681'000** random numbers (32 bits) and saving them.
         Random number (32-bit): 3876569099
         Random number (32-bit): 3778418214
 
+### Sample File:
+[File](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Teensy_681'000.txt) - Size: 7 MB
+
 ## 7. Ent Tests
 
 Ent sources (www.fourmilab.ch/random/)
 
 - Sample size: **7,1 MB**
-
 - Total generated: **681'000 values**
+- Entropy: **3.452534** bits per byte
+- The data shows detectable patterns
 
 [Ent Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.txt)
 
@@ -126,8 +128,8 @@ Ent sources (www.fourmilab.ch/random/)
 (https://webhome.phy.duke.edu/~rgb/General/dieharder.php) Robert G. Brown
 
 - Sample size: **7,1 MB**
-
 - Total generated: **681'000 values**
+- ***slight biases or non-random structures*** in some parts of the sequences. 
 
 [Diehard Report - Raw](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Dieharder_Teensy_681'000.txt)
 
