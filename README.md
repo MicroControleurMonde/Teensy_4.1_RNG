@@ -18,34 +18,32 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
 
 ## Breakdown of Sections
 
-
-1. [Project Description](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#project-description)
-2. [Features](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#features)
-3. [Requirements](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#requirements)
-4. [Usage](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#usage)
-5. [How it Works](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#how-it-works)
+1. Project Description
+2. Features
+3. Requirements
+4. Usage
+5. How it Works
 6. Performance and output
-    - [Performance](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#performance)
-    - [Output](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#output)
+7. Performance:
+8. Ent Tests
+9. Diehard Test for Validation
+10. Acknowledgements
+11. Disclaimer
 
-8. [Ent Tests](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#ent-tests)
-9. [Diehard Test for Validation](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#diehard-test-for-validation)
-10. [Acknowledgements](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#acknowledgements)
-11. [Disclaimer](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/edit/main/README.md#disclaimer)
+## 1. Project Description
 
-## Project Description
+## 2. Features
 
-## Features
+## 3. Requirements
 
-## Requirements
+## 4. Usage
 
-## Usage
+## 5. How it Works
 
-## How it Works
+## 6. Performance and output
 
-## Performance and output
+### 7. Performance
 
-### Performance:
 Generating 681'000 random numbers (32 bits) and saving them.
 
 - **Elapsed time**: 295.71 seconds (about 4 minutes and 55 seconds).
@@ -68,7 +66,7 @@ Generating 681'000 random numbers (32 bits) and saving them.
         Random number (32-bit): 3876569099
         Random number (32-bit): 3778418214
 
-## Ent Tests
+## 8. Ent Tests
 
 Ent sources (www.fourmilab.ch/random/)
 
@@ -80,7 +78,7 @@ Ent sources (www.fourmilab.ch/random/)
 
 [Ent Report Analyse](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Ent_Teensy_681'000.md)
 
-## Diehard Test for Validation
+## 9. Diehard Test for Validation
 (https://webhome.phy.duke.edu/~rgb/General/dieharder.php) Robert G. Brown
 
 - Sample size: **7,1 MB**
@@ -92,7 +90,7 @@ Ent sources (www.fourmilab.ch/random/)
 [Diehard Report - Analyse](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/Dieharder_Teensy_681'000.md)
 
 
-## Acknowledgements
+## 10. Acknowledgements
 
 The project is based on the i/MX RT1062 MCU, and its MicroPython firmware.
 
@@ -100,7 +98,7 @@ Tested on an original **Teensy 4.1**. [pjrc](https://www.pjrc.com/store/teensy41
 
 MicroPython v1.24.0 on 2024-10-25; Teensy 4.1 with MIMXRT1062DVJ6A
 
-## Disclaimer
+## 11. Disclaimer
 
 The code contained in this repository is provided “as is”, without any warranty of performance, accuracy or result. The author shall not be liable for any direct or indirect damages that may result from the use of this code, including, but not limited to, loss of data or interruption of service.
 
