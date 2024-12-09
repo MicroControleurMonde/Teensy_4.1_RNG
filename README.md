@@ -13,9 +13,8 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
     So, for the moment a more simplistic approach is preferable...
 
     For information: Actually, the C code itself is quite simple and straightforward. 
-    However, the calls to the include file are a hellish machine.
-    it is all about working on the multiple registers of the MCU. 
-    It's real brain surgery ...
+    However, the calls to the include file are a hellish machine. it is all about working on the multiple registers of the MCU.
+    Like a big piston-driven machine. It's real brain surgery ...
 
 ## Breakdown of Sections
 
