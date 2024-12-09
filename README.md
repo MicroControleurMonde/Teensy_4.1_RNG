@@ -76,7 +76,7 @@ The script uses the following steps:
 
 **Customization:** 
 
-In the function ***'def generate_random_number()`***, you can cahne the number of pins as desired from 2 to 10 to "_spice up the cooking recipe_". Up to you !
+In the function ***`def generate_random_number()`***, you can change the number of pins as desired from 2 to 10 to "_spice up the cooking recipe_". Up to you !
 
 ## 6. Performance and output
 
