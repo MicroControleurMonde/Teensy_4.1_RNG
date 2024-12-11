@@ -18,6 +18,8 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
     However, the calls to the include file are a hellish machine. it is all about working on the multiple 
     registers of the MCU. Like a big piston-driven machine. It's real brain surgery ...
 
+*A glimpse of hell. By the way, some of this information is not in the official doc.*  [Registers](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/registers.txt)
+
 ## Breakdown of Sections
 
 1. Project Description
