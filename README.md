@@ -20,7 +20,7 @@ A method for generating random numbers on a Teensy 4.1 using multiple analog inp
 
 *A glimpse of hell. By the way, some of this information is not in the official doc.*  [Registers](https://github.com/MicroControleurMonde/Teensy_4.1_RNG/blob/main/Reports/registers.txt)
 
-And some of the reasons that make the TRNG of the iMX RT1062 /62 are not easily implementable... [explanations](https://forum.pjrc.com/index.php?threads/big-chunks-of-teensy4-reference-manual-is-secret-unlike-teensy3.64026/#post-257046)
+*And some of the reasons that make the TRNG of the iMX RT1062 /62 are not easily implementable...* [explanations](https://forum.pjrc.com/index.php?threads/big-chunks-of-teensy4-reference-manual-is-secret-unlike-teensy3.64026/#post-257046)
 
 ## Breakdown of Sections
 
